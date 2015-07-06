@@ -27,7 +27,7 @@ public class LibraryManagement {
 
 	public static void mainMenu() {
 		System.out.println("*******************************************************");
-		System.out.println("Welcome to the GCIT Library Management System. ");
+		System.out.println("Welcome to the Library Management System. ");
 		System.out.println("Which category of a user are you? ");
 		System.out.println("1) Librarian");
 		System.out.println("2) Administrator");
